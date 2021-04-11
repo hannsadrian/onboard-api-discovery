@@ -8,10 +8,14 @@
   "license": "GPL-3.0",
   "private": false,
   "dependencies": {
+    "cd-wifi-client": "^1.0.2",
+    "digital-im-regio-portal-client": "^1.0.1",
+    "live-icomera-position": "^1.1.0",
     "mri": "^1.1.6",
     "network": "^0.5.0",
     "node-wifi": "^2.0.14",
     "ora": "^5.4.0",
+    "sncf-wifi-portal-client": "^1.0.0",
     "update-notifier": "^5.1.0",
     "wifi-on-ice-portal-client": "^1.1.0"
   }
