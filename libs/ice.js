@@ -7,7 +7,9 @@ const info = {
 
 const isAvailable = async () => {
   try {
-    const payload = await portal.status()
+    const payload = {}
+    payload.status = await portal.status()
+    payload.journey = await portal.journey()
     return {
       available: true,
       info: info,
