@@ -2,6 +2,7 @@
 "use strict";
 
 const mri = require("mri");
+const ora = require("ora");
 const updateNotifier = require("update-notifier");
 const pkg = require("./package.json");
 const getReportLog = require(".")
@@ -11,7 +12,7 @@ const util = require("util")
 updateNotifier({ pkg }).notify();
 
 const argv = mri(process.argv.slice(2), {
-  boolean: ["help", "h", "version", "v", "json", "j"],
+  boolean: ["help", "h", "version", "v"],
 });
 
 if (argv.help || argv.h) {
@@ -31,6 +32,8 @@ if (argv.version || argv.v) {
 }
 
 (async () => {
+  const spinner = ora('Searching for endpoints').start();
   const report = await getReportLog(await checkKnownEndpoints())
+  spinner.stop()
   console.log(util.inspect(report, false, null, true))
 })();
