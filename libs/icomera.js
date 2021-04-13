@@ -8,7 +8,7 @@ const info = {
 const isAvailable = async () => {
   try {
     const payload = {};
-    payload.status = await fetchPosition();
+    payload.status = await fetchPosition({timeout: 2500});
     return {
       available: true,
       info: info,

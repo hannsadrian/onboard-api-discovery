@@ -593,9 +593,9 @@ latest-version@^5.1.0:
     package-json "^6.3.0"
 
 live-icomera-position@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/live-icomera-position/-/live-icomera-position-1.1.0.tgz#8c76b10dd9c56ba10d2ce936f328b34052e677a7"
-  integrity sha512-cJuGmRaOq3iwovQ2B7pBogCQl0RTiy48Iaxa02l5Po2lIFdjCHP/Z/WsXGGEo/9CXw8lLdVRr+2klLF9GHvyvw==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/live-icomera-position/-/live-icomera-position-1.2.0.tgz#a8d0e2cbe66667f5647a04d5922fad9b812071bf"
+  integrity sha512-dMTtYP27UyVIIY0VH/kH27zgYNU0Y0Vm28MAgG3+wDKYTmxAmQBh4JjjtV1aiTg0lXc6DC4nmF4aR9N/NcQKBA==
   dependencies:
     fetch-ponyfill "^6.1.0"
     parse-jsonp "^2.0.0"
@@ -940,9 +940,9 @@ slugg@^1.2.1:
   integrity sha1-51KvIkGvPycURjxd4iXOpHYIdAo=
 
 sncf-wifi-portal-client@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/sncf-wifi-portal-client/-/sncf-wifi-portal-client-1.0.0.tgz#77aafc035dfafe1e1a786e7406b071fbed7f98eb"
-  integrity sha512-fpc+UgQxBKRzAYRxyplE4rnS3YAWDy6r8jPdW2UYANgZw1xv2Rj6CdWgT8CweJmAanvZjQNp6BocVAKPSFEDbA==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/sncf-wifi-portal-client/-/sncf-wifi-portal-client-1.1.0.tgz#b86a7e7d644409a99821b58121d057aa2c48c9b4"
+  integrity sha512-ayRUiFDBgOIfJo1HE+ZBpurWgtWAUKd851oirNJai+N3dm50vIHfn0CEYc4QYUOObmM73oL0G516YINTVojUfg==
   dependencies:
     fetch-ponyfill "^6.1.0"
     pinkie-promise "^2.0.1"
