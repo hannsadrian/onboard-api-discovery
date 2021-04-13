@@ -18,5 +18,17 @@
     "sncf-wifi-portal-client": "^1.1.0",
     "update-notifier": "^5.1.0",
     "wifi-on-ice-portal-client": "^1.1.0"
-  }
+  },
+  "bin": {
+    "onboard-api-discovery": "./cli.js"
+  },
+  "files": [
+    "cli.js",
+    "index.js",
+    "libs/*"
+  ],
+  "keywords": [
+    "onboard",
+    "discovery"
+  ]
 }
