@@ -592,7 +592,7 @@ latest-version@^5.1.0:
   dependencies:
     package-json "^6.3.0"
 
-live-icomera-position@^1.1.0:
+live-icomera-position@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/live-icomera-position/-/live-icomera-position-1.2.0.tgz#a8d0e2cbe66667f5647a04d5922fad9b812071bf"
   integrity sha512-dMTtYP27UyVIIY0VH/kH27zgYNU0Y0Vm28MAgG3+wDKYTmxAmQBh4JjjtV1aiTg0lXc6DC4nmF4aR9N/NcQKBA==
@@ -939,7 +939,7 @@ slugg@^1.2.1:
   resolved "https://registry.yarnpkg.com/slugg/-/slugg-1.2.1.tgz#e752af2241af3f2714463c5de225cea47608740a"
   integrity sha1-51KvIkGvPycURjxd4iXOpHYIdAo=
 
-sncf-wifi-portal-client@^1.0.0:
+sncf-wifi-portal-client@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/sncf-wifi-portal-client/-/sncf-wifi-portal-client-1.1.0.tgz#b86a7e7d644409a99821b58121d057aa2c48c9b4"
   integrity sha512-ayRUiFDBgOIfJo1HE+ZBpurWgtWAUKd851oirNJai+N3dm50vIHfn0CEYc4QYUOObmM73oL0G516YINTVojUfg==
