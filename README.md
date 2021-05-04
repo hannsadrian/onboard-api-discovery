@@ -26,7 +26,7 @@ All the information you submit will help to eventually create a nice documentati
 
 ## Usage
 
-After you've followed the installation using npm, you can start a discovery by entering `onboard-api-discovery` in your terminal. This will start a search for known api endpoints and return a json object which looks similiar to the following:
+After you've followed the installation using npm, you can start a discovery by entering `onboard-api-discovery` in your terminal. This will start a search for known api endpoints and return a json object which looks similiar to the following: (altough hopefully with data in the payload fields)
 
 ```json
 {
