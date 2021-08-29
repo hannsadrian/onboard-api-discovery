@@ -1,0 +1,36 @@
+GET /portal/api/advertisement/type?locale=de_DE&type=adv.type.interstitial&amount=1 HTTP/1.1
+Host: cdwifi.cz
+Content-Type: application/json
+Connection: close
+Accept: application/json
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+Referer: http://cdwifi.cz/captive
+Accept-Language: de-DE,de;q=0.9
+Accept-Encoding: gzip, deflate
+
+HTTP/1.0 404 Not Found
+Server: nginx
+Date: Fri, 27 Aug 2021 13:10:24 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.0.20
+X-Cache: MISS from IMP-redirect
+X-Cache-Lookup: MISS from IMP-redirect:3129
+Via: 1.0 IMP-redirect (squid/3.1.20)
+Connection: close
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>An Error Occurred: Not Found</title>
+    </head>
+    <body>
+        <h1>Oops! An Error Occurred</h1>
+        <h2>The server returned a "404 Not Found".</h2>
+
+        <div>
+            Something is broken. Please let us know what you were doing when this error occurred.
+            We will fix it as soon as possible. Sorry for any inconvenience caused.
+        </div>
+    </body>
+</html>
