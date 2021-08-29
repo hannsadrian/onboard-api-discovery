@@ -1,6 +1,6 @@
 {
   "name": "onboard-api-discovery",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Attempt to discover the spread of onboard apis, which provide information in the vehicle-local WiFi.",
   "main": "index.js",
   "repository": "https://github.com/Adwirawien/onboard-api-discovery.git",
