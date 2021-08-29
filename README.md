@@ -94,7 +94,7 @@ Submitting this output as an [issue](https://github.com/Adwirawien/onboard-api-d
 
 ## Going further
 
-If you want to reverse engineer onboard-apis yourself, this repo will soon contain some helpful guides on how to do just that.<br>
+If you want to reverse engineer onboard-apis yourself, please take a look at [docs/reverse_engineering.md](docs/reverse_engineering.md)<br>
 Once you obtained some logs, you can contribute them into `dumps/@<your_username>/` ([@adwirawien/cdwifi](dumps/@adwirawien/cdwifi) is a suggestion on how to structure your logs). This will enable documenting yet unkown apis or help collect more data about apis for further reverse engineering.
 
 ## Related
