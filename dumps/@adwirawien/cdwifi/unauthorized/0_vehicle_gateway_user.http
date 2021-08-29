@@ -1,0 +1,38 @@
+GET /portal/api/vehicle/gateway/user HTTP/1.1
+Host: cdwifi.cz
+Connection: close
+Accept: application/json
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+Accept-Language: de-DE,de;q=0.9
+Referer: http://cdwifi.cz/
+Accept-Encoding: gzip, deflate
+
+HTTP/1.0 200 OK
+Server: nginx
+Date: Fri, 27 Aug 2021 13:10:24 GMT
+Content-Type: application/json
+X-Powered-By: PHP/7.0.20
+Cache-Control: max-age=0
+Allow: GET
+Pragma: no-cache
+Expires: Fri, 27 Aug 2021 13:10:24 GMT
+X-Cache: MISS from IMP-redirect
+X-Cache-Lookup: MISS from IMP-redirect:3129
+Via: 1.0 IMP-redirect (squid/3.1.20)
+Connection: close
+
+{
+  "id":null,
+  "ip":"10.0.0.168",
+  "mac":null,
+  "authenticated":0,
+  "category":"unknown",
+  "dataUsage": {
+    "used":0,
+    "limit":"209715200",
+    "expire":null,
+    "dataLimit":"209715200",
+    "speedLimit":false,
+    "region":"DE2"
+  }
+}

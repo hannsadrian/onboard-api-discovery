@@ -1,0 +1,24 @@
+GET /portal/api/page/pages.static.privacy?locale=de_DE HTTP/1.1
+Host: cdwifi.cz
+Content-Type: application/json
+Connection: close
+Accept: application/json
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+Referer: http://cdwifi.cz/page/pages.static.privacy
+Accept-Language: de-DE,de;q=0.9
+Accept-Encoding: gzip, deflate
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 27 Aug 2021 13:44:08 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/7.0.20
+Allow: GET
+Expires: Fri, 27 Aug 2021 13:45:08 GMT
+Cache-Control: max-age=60
+X-Proxy-Cache: EXPIRED
+Cache-Control: public
+Content-Length: 3988
+
+{"id":7,"body":"<h2>Cookie-Richtlinie</h2>\r\n\r\n<p>Die Cookie-Technologie wird in unserem Portal verwendet. Cookies sind kleine Dateien, die Text- oder Zahleninformationen enthalten. Durch die Verwendung von Cookies auf Ihrem Ger&auml;t helfen Sie uns, unsere Website zu verbessern.</p>\r\n\r\n<p>Mit Cookies k&ouml;nnen Sie Webseiten bequemer angezeigt sein.</p>\r\n\r\n<p>- Ich erinnere mich an Ihre Einstellungen, damit Sie nicht jedes Mal zur bevorzugten Sprachversion des Portals wechseln m&uuml;ssen<br />\r\n- Helfen Sie uns, die Nutzung unserer Website zu analysieren, damit wir Ihnen die erforderlichen Inhalte besser zur Verf&uuml;gung stellen k&ouml;nnen</p>\r\n\r\n<h2>Die Cookies die wir verwenden</h2>\r\n\r\n<h3>Google Analytics</h3>\r\n\r\n<p>Wir verwenden Google Analytics, um Informationen dar&uuml;ber zu sammeln, wie Besucher unsere Website nutzen. Ziel ist es, die Bed&uuml;rfnisse unserer Besucher zu verstehen und deren Zufriedenheit sicherzustellen.</p>\r\n\r\n<p>Google Analytics speichert Informationen dar&uuml;ber, welche Seiten Sie besuchen, wie lange Sie dort bleiben, woher Sie kamen und auf welche Links Sie klicken. Wir sammeln oder speichern Ihre vertraulichen Daten nicht und verf&uuml;gen daher nicht &uuml;ber Informationen, die zu Ihrer Identifizierung f&uuml;hren k&ouml;nnten. Wir m&ouml;chten nicht, dass Google unsere Analysen verwendet oder freigibt. Daher haben wir diese Option in den Google Analytics-Einstellungen deaktiviert.</p>\r\n\r\n<p>Sie ben&ouml;tigen ein nach Google Analytics benanntes Cookie</p>\r\n\r\n<p>_ga</p>\r\n\r\n<p>Zur einfacheren Bereitstellung und Verwaltung des Google Analytics-Tracking-Codes verwenden wir das Google Tag Manager-Tool, in dem ein Cookie gespeichert wird, das auf Ihrem Ger&auml;t benannt ist</p>\r\n\r\n<p>_dc_gtm_UA-PTF936</p>\r\n\r\n<h2>Andere Cookies</h2>\r\n\r\n<p>Um zu vermeiden, dass Ihr Cookie f&uuml;r weitere Besuche verwendet werden muss, speichern wir eine Datei auf Ihrem Ger&auml;t, in der der Wert gespeichert wird, ob Sie der Verwendung von Cookies auf unserer Website zustimmen oder nicht. Der Name dieses Cookies lautet</p>\r\n\r\n<p><strong>Verfolgung</strong></p>\r\n\r\n<p>Wenn Sie der Verwendung von Cookies in unserem Portal nicht zustimmen, werden keine Informationen &uuml;ber Ihre Besuche an Google Analytics gesendet.</p>\r\n\r\n<h2>Browsereinstellungen</h2>\r\n\r\n<p>Die meisten Browser k&ouml;nnen so eingerichtet werden, dass Cookies nicht empfangen werden. Es kann jedoch sein, dass einige Elemente der Website nicht ordnungsgem&auml;&szlig; funktionieren. Die Einstellungen f&uuml;r den Empfang von Cookies finden Sie normalerweise im Men&uuml; &quot;Optionen&quot; oder &quot;Einstellungen&quot; in der oberen Leiste des Browsers.</p>\r\n\r\n<h3>Cookie-Einstellungen im Internet Explorer</h3>\r\n\r\n<p><a href=\"https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies\">https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies</a></p>\r\n\r\n<h3>Firefox-Cookie-Einstellungen</h3>\r\n\r\n<p><a href=\"http://support.mozilla.com/cs-CS/kb/Cookies\" target=\"_blank\">https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer</a></p>\r\n\r\n<h3>Cookie-Einstellung in Chrome</h3>\r\n\r\n<p><a href=\"https://support.google.com/chrome/answer/95647?hl=cs\" target=\"_blank\">https://support.google.com/chrome/answer/95647?hl=de</a></p>\r\n\r\n<h3>Cookie-Einstellungen in Safari</h3>\r\n\r\n<p><a href=\"https://support.apple.com/kb/PH19214?locale=cs_CZ\" target=\"_blank\">https://support.apple.com/de-de/guide/safari/sfri11471/mac</a></p>\r\n\r\n<h2>Andere n&uuml;tzliche Links</h2>\r\n\r\n<p>Um mehr &uuml;ber Cookies und deren weitere Verwendung zu erfahren, verwenden Sie bitte die folgenden Link:</p>\r\n\r\n<h3>Ein allgemeiner Cookie-Cookie-Leitfaden</h3>\r\n\r\n<p><a href=\"http://www.aboutcookies.org\" target=\"_blank\">http://www.aboutcookies.org</a></p>"}

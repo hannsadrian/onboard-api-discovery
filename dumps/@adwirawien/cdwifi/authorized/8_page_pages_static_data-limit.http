@@ -1,0 +1,25 @@
+GET /portal/api/page/pages.static.data_limit?locale=de_DE HTTP/1.1
+Host: cdwifi.cz
+Content-Type: application/json
+Cookie: _ga_ENQC139PQZ=GS1.1.1630242941.1.1.1630243293.0; _ga=GA1.2.503819113.1630242943; _gid=GA1.2.1690955648.1630242943
+Connection: close
+Accept: application/json
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+Referer: http://cdwifi.cz/page/pages.static.data_limit
+Accept-Language: de-DE,de;q=0.9
+Accept-Encoding: gzip, deflate
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 27 Aug 2021 13:21:34 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/7.0.20
+Allow: GET
+Expires: Fri, 27 Aug 2021 13:22:34 GMT
+Cache-Control: max-age=60
+X-Proxy-Cache: EXPIRED
+Cache-Control: public
+Content-Length: 784
+
+{"id":19,"body":"<p><strong>Informationen &uuml;ber die Datengrenzen</strong><br />\r\n<br />\r\nIn jedem Land gibt es folgende Daten Grenzen:</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"min-width:320px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Tschechien</td>\r\n\t\t\t<td>Unbegrenzt</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Deutschland</td>\r\n\t\t\t<td>1. Klasse 500 Megabyte<br />\r\n\t\t\t2. Klasse 200 Megabyte</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>&Ouml;sterreich</td>\r\n\t\t\t<td>Unbegrenzt</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Slowakei</td>\r\n\t\t\t<td>Unbegrenzt</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Ungarn</td>\r\n\t\t\t<td>Unbegrenzt</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>"}

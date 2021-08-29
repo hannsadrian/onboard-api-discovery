@@ -1,0 +1,36 @@
+GET /portal/api/vehicle/gateway/user/authenticate?category=internet&url=http%3A%2F%2Fcdwifi.cz%2Fportal%2Fapi%2Fvehicle%2Fgateway%2Fuser%2Fsuccess&onerror=http%3A%2F%2Fcdwifi.cz%2Fportal%2Fapi%2Fvehicle%2Fgateway%2Fuser%2Ferror HTTP/1.1
+Host: cdwifi.cz
+Connection: close
+Accept: application/json
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+Accept-Language: de-DE,de;q=0.9
+Referer: http://cdwifi.cz/captive
+Accept-Encoding: gzip, deflate
+
+HTTP/1.0 307 Temporary Redirect
+Server: nginx
+Date: Fri, 27 Aug 2021 13:19:54 GMT
+Content-Type: application/json
+X-Powered-By: PHP/7.0.20
+Cache-Control: max-age=0
+Location: http://cdwifi.cz/portal/api/vehicle/gateway/user/success
+Allow: POST, GET
+Pragma: no-cache
+Expires: Fri, 27 Aug 2021 13:19:54 GMT
+X-Cache: MISS from IMP-redirect
+X-Cache-Lookup: MISS from IMP-redirect:3129
+Via: 1.0 IMP-redirect (squid/3.1.20)
+Connection: close
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url=http://cdwifi.cz/portal/api/vehicle/gateway/user/success" />
+
+        <title>Redirecting to http://cdwifi.cz/portal/api/vehicle/gateway/user/success</title>
+    </head>
+    <body>
+        Redirecting to <a href="http://cdwifi.cz/portal/api/vehicle/gateway/user/success">http://cdwifi.cz/portal/api/vehicle/gateway/user/success</a>.
+    </body>
+</html>
